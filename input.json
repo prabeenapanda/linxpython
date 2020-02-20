@@ -1,0 +1,10 @@
+{
+ "Dependencies" : [
+  "beautifulsoup4==4.4.1",
+  "boto==2.48.0",
+  "IDK",
+  "bz2file==0.98",
+  "six==1.10.0",
+  "idontknow",
+ "twitter==1.17.1"]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="443094f1-e295-4b71-97bb-d3f66a00c827" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XyjR6w5zc5FCIHNMoQbrQvxWlf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/ex3.py" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="443094f1-e295-4b71-97bb-d3f66a00c827" name="Default Changelist" comment="" />
+      <created>1582025216380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582025216380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="84" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582025257858">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="84" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1582025257858" />
+    <state x="410" y="226" key="FileChooserDialogImpl" timestamp="1582179267770">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="410" y="226" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1582179267770" />
+    <state x="325" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582179161770">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="325" y="294" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1582179161770" />
+  </component>
+</project>
